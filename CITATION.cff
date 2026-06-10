@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/ReCapture-Unofficial"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning"
+  authors:
+  - family-names: Zhang
+    given-names: David Junhao
+  - family-names: Paiss
+    given-names: Roni
+  - family-names: Zada
+    given-names: Shiran
+  - family-names: Karnad
+    given-names: Nikhil
+  - family-names: Jacobs
+    given-names: David E.
+  - family-names: Pritch
+    given-names: Yael
+  - family-names: Mosseri
+    given-names: Inbar
+  - family-names: Shou
+    given-names: Mike Zheng
+  - family-names: Wadhwa
+    given-names: Neal
+  - family-names: Ruiz
+    given-names: Nataniel
+  conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  url: "https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_ReCapture_Generative_Video_Camera_Controls_for_User-Provided_Videos_using_Masked_CVPR_2025_paper.html"
